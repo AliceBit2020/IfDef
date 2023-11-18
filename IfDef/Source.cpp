@@ -122,5 +122,11 @@ void TestConditionalCompilation()
 
 	///////   Add function Cin struct
 
+	cout << "Hello from Master" << endl;
+	////comment from gitHub
+
+
+
+
 }
 //  https://msdn.microsoft.com/en-us/library/3sxhs2ty.aspx
