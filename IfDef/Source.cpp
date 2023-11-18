@@ -119,8 +119,12 @@ void TestConditionalCompilation()
 
 	cout << "Some changes from branch StructDate" << endl;
 
+
+	///////   Add function Cin struct
+
 	cout << "Hello from Master" << endl;
 	////comment from gitHub
+
 
 
 
