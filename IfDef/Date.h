@@ -16,3 +16,4 @@ struct MyDate
 };
 
 void PrintDate(const MyDate& dt);
+void CinDate(const MyDate& dt);
