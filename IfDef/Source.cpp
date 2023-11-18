@@ -117,6 +117,7 @@ void TestConditionalCompilation()
 //#undef ADD
 
 
+	cout << "Some changes from branch StructDate" << endl;
 
 	cout << "Hello from master" << endl;
 
