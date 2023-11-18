@@ -117,7 +117,7 @@ void TestConditionalCompilation()
 //#undef ADD
 
 
-
+	cout << "Some changes from branch StructDate" << endl;
 
 }
 //  https://msdn.microsoft.com/en-us/library/3sxhs2ty.aspx
