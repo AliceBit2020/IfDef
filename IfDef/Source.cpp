@@ -115,5 +115,9 @@ void TestConditionalCompilation()
 //		.
 //#undef WIDTH
 //#undef ADD
+
+
+
+
 }
 //  https://msdn.microsoft.com/en-us/library/3sxhs2ty.aspx
